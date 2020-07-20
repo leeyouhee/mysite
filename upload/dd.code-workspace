@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\template_html\\assets"
+		},
+		{
+			"path": "..\\..\\template_html\\css"
+		},
+		{
+			"path": "..\\..\\template_html\\js"
+		}
+	],
+	"settings": {}
+}
